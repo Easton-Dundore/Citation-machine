@@ -20,7 +20,7 @@ if type == 'M':
         print ('Here is your final citation ')
         print (list(fulllist[1] + ', ') + (list(fulllist[0] + '. ') + (list(fulllist[2] + '. ') + str(publisher + ', ') + str(date + '.' ))
 
-    if first == 'website'
+    elif first == 'website'
         title = input ('Enter the title of the article')
         authornf = input ('Enter the authors first name ')
         authornl = input ('Enter the authors last name ')
